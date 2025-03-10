@@ -1,2 +1,5 @@
 Hello Git
 comit 아니고 commit인데 오타 수정하고싶다
+
+
+여기는 임시로 작성된 라인이다.
